@@ -1,5 +1,5 @@
 # Lobelias
-Redesign your lockscreen player
+Redesign your lock screen player
 
 ## Installation
 1. Add this repository to your Package Manager: https://repo.litten.love
