@@ -6,7 +6,7 @@ Redesign your lock screen player
 2. Install Lobelias
 
 ## Compiling
-  - Depends on libKitten & sparkcolourpicker
+  - Depends on libKitten and sparkcolourpicker
   - You may want to edit the `Makefiles` to suit your theos installation
 
 ## Note
